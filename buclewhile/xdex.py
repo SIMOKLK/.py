@@ -5,3 +5,4 @@ while (klk<numero):
 	klk+=1
 	print (input ("nuevo número"))
 print klk
+

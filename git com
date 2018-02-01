@@ -1,0 +1,7 @@
+git init
+git remote
+(git pull origin)
+git add -A
+git commit -M "A2"
+git push
+
